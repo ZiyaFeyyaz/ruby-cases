@@ -1,6 +1,3 @@
-# ruby-cases
-Ruby cases
-
 #### 1
 ```ruby
 class A
