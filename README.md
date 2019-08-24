@@ -26,8 +26,6 @@ puts B.new.test('bbb')
 puts C.new.test('ccc')
 ```
 
-***
-
 #### 2
 ```ruby
 module M
